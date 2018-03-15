@@ -1,0 +1,18 @@
+.jumbotron {
+  padding: 0
+  margin-bottom: 0;
+  background-color: #e9ecef;
+  border-radius: 0;
+}
+
+#sh {
+  with: 10rem;
+}
+
+.f-list {
+  float: left;
+}
+
+#bird img {
+    float: left;
+}
